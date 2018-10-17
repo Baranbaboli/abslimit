@@ -1,0 +1,4 @@
+﻿  Source.c
+d:\udemy projeler\okul c++\baboli_abs_limit_c\baboli_abs_limit_c\source.c(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\udemy projeler\okul c++\baboli_abs_limit_c\baboli_abs_limit_c\source.c(28): warning C4013: 'system' undefined; assuming extern returning int
+  Baboli_Abs_limit_C.vcxproj -> D:\udemy projeler\okul C++\Baboli_Abs_limit_C\Debug\Baboli_Abs_limit_C.exe

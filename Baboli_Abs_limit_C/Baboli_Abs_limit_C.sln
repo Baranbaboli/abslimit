@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baboli_Abs_limit_C", "Baboli_Abs_limit_C\Baboli_Abs_limit_C.vcxproj", "{874A5A0A-B713-42C8-A250-10F410D20BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Debug|x64.ActiveCfg = Debug|x64
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Debug|x64.Build.0 = Debug|x64
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Debug|x86.Build.0 = Debug|Win32
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Release|x64.ActiveCfg = Release|x64
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Release|x64.Build.0 = Release|x64
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Release|x86.ActiveCfg = Release|Win32
+		{874A5A0A-B713-42C8-A250-10F410D20BFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C390B0E-45F7-43F3-8EEC-3E5F162919B3}
+	EndGlobalSection
+EndGlobal

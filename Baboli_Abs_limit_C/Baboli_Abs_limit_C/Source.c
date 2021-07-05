@@ -16,7 +16,7 @@ int main()
 	abslimit = week * hour*0.3;
 	printf("Absence Limit:");
 	printf("%.2f", abslimit);
-
+	
 	printf("\nEnter your absences:");
 	scanf("%d", &myhour);
 
@@ -26,7 +26,7 @@ int main()
 		printf("Nice, keep coming \n");
 
 	system("pause");
-
+	//baranbaboli
 
 	return 0;
 
